@@ -1,0 +1,4 @@
+Department_id,Faculty_id,Department_name,Is_graduating,Website,Phone
+1,1,Кафедра информатики и программирования,t,https://university.ru,+7 (495) 111-22-33
+2,1,Кафедра высшей математики,f,https://university.ru,+7 (495) 111-22-44
+3,2,Кафедра прикладной экономики,t,,
